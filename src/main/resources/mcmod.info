@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wastebin",
+  "name": "Waste Bin Mod",
+  "description": "Simple waste bin to discard items and blocks.",
+  "version": "1.0.0",
+  "mcversion": "1.8",
+  "url": "http://soggymustache.net",
+  "updateUrl": "",
+  "authorList": ["George K. Kazanjian"],
+  "credits": "SoggyMustache",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
